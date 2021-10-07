@@ -5,7 +5,7 @@
 
 
 #Input text:
-text = input("Nhập văn bản của bạn (50 words maximum):")
+text = input("Text what you want (50 words maximum):")
 
 #To count the word in text, we will count space appeard in the text. 
 count = 0
